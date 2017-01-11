@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+
+use particleflux\MaxCube\MaxCube;
+
+require_once __DIR__ . '/../vendor/autoload.php';
+
+echo "test\n";
+
+$cube = new MaxCube('192.168.178.234');
+$cube->connect();
