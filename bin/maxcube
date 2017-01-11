@@ -9,3 +9,5 @@ echo "test\n";
 
 $cube = new MaxCube('192.168.178.234');
 $cube->connect();
+
+echo json_encode($cube->getCube()) . "\n";
