@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3b4f15c6517574f31314c9cf1010039b",
-    "content-hash": "c5532f869cb3a2728cb61016497084bc",
+    "hash": "c3726ad5cb5ed493382ee44dd2c33ad4",
+    "content-hash": "9db43077cd5d7b692de8b909be1d8dba",
     "packages": [
         {
             "name": "particleflux/maxcube",
